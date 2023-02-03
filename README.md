@@ -127,4 +127,4 @@ There hasnt been much progress finnding code for writing, storing, and finding d
 
 ## Week 1/30-2/3
 We finished soldering all the connections to the board. We also made sure that all connectiuons that we did were in the right position so we didnt have to go back and redo them. The drone motors arrived. So we are waiting for the motor holders to finish printing so that we can finish connecting the motors.
-At the end of the week we finished wiring and soldering wires and making sure the connections wouldnt break. We alos had to do some modifications to the feet of the drone. As they hold the motors and the holes are to big for the motors.
+At the end of the week we finished wiring and soldering wires and making sure the connections wouldnt break. We alos had to do some modifications to the feet of the drone. As they hold the motors and the holes are to big for the motors. The base of the drone ended up breaking because it was too weak so some changes were made to make it more stable. While working on that, we realized that there was an extra part that was completely unnecessary so that was fixed.
