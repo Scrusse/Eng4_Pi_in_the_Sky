@@ -39,7 +39,7 @@ Here is our reference for a drone next to our initial design for our drone:
 
 # Functionablility_and_Materials
 
-## Functionability
+## Functionality
 Our plan to control this drone is to just let all of the motors go at full speed till we reach a certain height then turn them off. If we have time then we can change it so that mototrs rpm is slowly reduced till landing but first we have to make the drone work. 
 
 Example of initial code: 
